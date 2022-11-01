@@ -1,0 +1,21 @@
+body {
+    /* text-align: center; */
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    height: auto;
+    width: 400px
+}
+
+.container {
+    background: #d5d5d5;
+}
+
+.important {
+    color: #ff0000;
+}
+
+.important .text {
+    color: #000000;
+}
